@@ -1,0 +1,60 @@
+10
+Charlotte
+EB White
+Wilbur
+comic
+1 2000 100 1 15000 5
+
+The Eleanor
+Coerr
+Meiko
+treasure
+2 2001 100 1 20000 7
+
+Out siders
+Hinton
+Edition wiskly
+action
+3 2004 101 2 30000 4
+
+The House
+Mango
+Sandra
+adventure
+4 2006 102 3 26000 2
+
+Thirteen
+Reasons
+Asher
+detective
+5 2008 105 4 10000 1
+
+Peter Pan
+Paperback
+Scottish
+comic
+6 2010 107 6 25000 9
+
+Old Man
+Ernest
+Hemingway
+adventure
+7 2012 103 3 32000 2
+
+Giver
+Quartet
+New bery
+detective
+8 2015 104 5 40000 1
+
+Number
+Stars
+German
+horror
+9 2017 108 4 23000 6
+
+Wrinkle
+The Times
+Murry
+psychological
+10 2018 109 3 12000 4
